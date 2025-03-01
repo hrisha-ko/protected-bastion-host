@@ -1,1 +1,1 @@
-# protected-bastion-host
+# Protected bastion host
